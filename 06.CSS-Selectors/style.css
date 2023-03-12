@@ -1,0 +1,79 @@
+#sec1 {height: 90vh; text-align: center;
+}
+.button {
+    color: blue; background-color: orange;
+}
+.button:hover {
+    background-color: white ;
+    color: coral ;
+  }
+
+input:focus{
+    background: black;
+    color: white;
+}
+input:focus::placeholder{
+    color: red;
+}
+h1 {
+    text-align: center;
+    }
+body {
+    text-align: justify;
+   
+}
+body form section {
+    background-color:grey ;
+}
+
+#sec2 { height: 100vh;  text-align: center;
+    background-color: cornsilk;
+   
+}
+.button1 {
+    color: blue; background-color: greenyellow;
+}
+.button1:hover {
+    background-color: wheat ;
+    color: burlywood ;
+  }
+#textarea {resize: none;}
+#sec3 { height: 100vh;
+   background-color: cadetblue;
+}
+.test {
+    color: mediumspringgreen;
+    ;
+}
+.test1{
+    color: rgb(8, 108, 30);
+}
+.test2 {
+    color: rgb(60, 5, 75);
+}
+.test3 {
+    color: rgb(191, 194, 12);
+}
+.test4{
+  color: rgb(172, 68, 91);
+}
+.test5 {
+    color:aqua;
+    }
+.test6 {
+    color: red;
+   }
+ul li {
+    color: green;
+    
+}
+.test7 {
+  color: rgb(0, 13, 255); 
+}
+.photo1 {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    margin-right: 5%;
+    margin-left: none
+    }
