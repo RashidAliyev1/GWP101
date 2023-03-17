@@ -1,0 +1,54 @@
+.sec1 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .minion {
+    background-image: url(./Minion1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 250px;
+    width: 200px;
+    height: 200px;
+  }
+  .contain {
+    width: 50%;
+  }
+  h2::after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 90px;
+    background-color: green;
+  }
+  @media only screen and (max-width: 786px) {
+    .sec1 {
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    .contain {
+      background-color: blueviolet;
+      position: relative;
+    }
+    .minion {
+      background-image: url(./minion2.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      left: 250px;
+      width: 200px;
+      height: 200px;
+      display: block;
+      padding: 40px 150px ;
+    }
+    h2 {
+      color: rgb(43, 226, 67);
+    }
+    p {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+    }
+  
+  }
