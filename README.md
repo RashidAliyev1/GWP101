@@ -8,3 +8,8 @@ Homework
 + .gitignore adında və password.txt fayl yaradıb password faylını gitignorda adını yazmaqla gitignora əlavə edirik
 + sonda eyni qayda ilə /secret yazıb .gitignore əlavə edib push edirik 
 
+
+Deploy:
+HomeworkHTML-https://shiny-zabaione-ce0547.netlify.app/
+
+
