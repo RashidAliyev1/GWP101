@@ -9,8 +9,9 @@ Homework
 + sonda eyni qayda ilə /secret yazıb .gitignore əlavə edib push edirik 
 
 
-Deploy:
-HomeworkHTML-https://shiny-zabaione-ce0547.netlify.app/
-08.Css-Boxmodel-https://taupe-quokka-14141f.netlify.app/
++ Deploy:
++ HomeworkHTML-https://shiny-zabaione-ce0547.netlify.app/
++ 08.Css-Boxmodel-https://taupe-quokka-14141f.netlify.app/
++ 11.ResponsiveTwoSection-https://velvety-phoenix-55a172.netlify.app/
 
 
