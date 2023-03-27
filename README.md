@@ -17,6 +17,7 @@ Homework
 + CSS_Background-https://relaxed-lily-33e6fd.netlify.app/
 + 06.CSS-Selectors-https://magnificent-bublanina-18985a.netlify.app/
 + 04-HtmlFormTable-https://chipper-lokum-02893a.netlify.app/
++ 12.Responsvie-page-https://teal-llama-dd7d26.netlify.app/
 
 
 
